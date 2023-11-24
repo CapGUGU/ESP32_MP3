@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/Li Yuanhao/Documents/GitHub/ESP32_MP3/Firmware/ESP_MP3/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "C:/Users/Li Yuanhao/Documents/GitHub/ESP32_MP3/Firmware/ESP_MP3/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "C:/Users/Li Yuanhao/Documents/GitHub/ESP32_MP3/Firmware/ESP_MP3/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "C:/Users/Li Yuanhao/Documents/GitHub/ESP32_MP3/Firmware/ESP_MP3/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "C:/Users/Li Yuanhao/Documents/GitHub/ESP32_MP3/Firmware/ESP_MP3/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "C:/Users/Li Yuanhao/Documents/GitHub/ESP32_MP3/Firmware/ESP_MP3/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "C:/Users/Li Yuanhao/Documents/GitHub/ESP32_MP3/Firmware/ESP_MP3/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "C:/Users/Li Yuanhao/Documents/GitHub/ESP32_MP3/Firmware/ESP_MP3/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/Li Yuanhao/Documents/GitHub/ESP32_MP3/Firmware/ESP_MP3/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "C:/Users/Li Yuanhao/Documents/GitHub/ESP32_MP3/Firmware/ESP_MP3/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}
