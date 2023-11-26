@@ -1,0 +1,8 @@
+# put here your custom config value
+menu "liveLED Configuration"
+config ESP_LIVELED_GPIO
+    int "LiveLED GPIO Pinout"
+    default 48
+    help
+		The GPIO pinout for liveLED, should not be the same as other pin require sub-Kconfig
+endmenu

@@ -467,11 +467,10 @@ CONFIG_PARTITION_TABLE_MD5=y
 # end of Partition Table
 
 #
-# Example Configuration
+# liveLED Configuration
 #
-CONFIG_ESP_WIFI_SSID="myssid"
-CONFIG_ESP_WIFI_PASSWORD="mypassword"
-# end of Example Configuration
+CONFIG_ESP_LIVELED_GPIO=1
+# end of liveLED Configuration
 
 #
 # Compiler options

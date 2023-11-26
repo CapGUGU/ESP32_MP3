@@ -9,7 +9,7 @@ C:/Users/Li Yuanhao/Documents/GitHub/ESP32_MP3/Firmware/ESP_MP3/build/CMakeFiles
 C:/Users/Li Yuanhao/Documents/GitHub/ESP32_MP3/Firmware/ESP_MP3/build/CMakeFiles/flash.dir
 C:/Users/Li Yuanhao/Documents/GitHub/ESP32_MP3/Firmware/ESP_MP3/build/CMakeFiles/encrypted-flash.dir
 C:/Users/Li Yuanhao/Documents/GitHub/ESP32_MP3/Firmware/ESP_MP3/build/CMakeFiles/_project_elf_src.dir
-C:/Users/Li Yuanhao/Documents/GitHub/ESP32_MP3/Firmware/ESP_MP3/build/CMakeFiles/app-template.elf.dir
+C:/Users/Li Yuanhao/Documents/GitHub/ESP32_MP3/Firmware/ESP_MP3/build/CMakeFiles/ESP_MP3.elf.dir
 C:/Users/Li Yuanhao/Documents/GitHub/ESP32_MP3/Firmware/ESP_MP3/build/CMakeFiles/size.dir
 C:/Users/Li Yuanhao/Documents/GitHub/ESP32_MP3/Firmware/ESP_MP3/build/CMakeFiles/size-files.dir
 C:/Users/Li Yuanhao/Documents/GitHub/ESP32_MP3/Firmware/ESP_MP3/build/CMakeFiles/size-components.dir

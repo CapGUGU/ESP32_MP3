@@ -1,15 +1,15 @@
 {
     "version":            "1",
-    "project_name":       "app-template",
-    "project_version":    "e5ba6b4",
+    "project_name":       "ESP_MP3",
+    "project_version":    "bb4d989-dirty",
     "project_path":       "C:/Users/Li Yuanhao/Documents/GitHub/ESP32_MP3/Firmware/ESP_MP3",
     "idf_path":           "C:/Espressif/frameworks/esp-idf-v5.1.1",
     "build_dir":          "C:/Users/Li Yuanhao/Documents/GitHub/ESP32_MP3/Firmware/ESP_MP3/build",
     "config_file":        "C:/Users/Li Yuanhao/Documents/GitHub/ESP32_MP3/Firmware/ESP_MP3/sdkconfig",
     "config_defaults":    "",
     "bootloader_elf":     "C:/Users/Li Yuanhao/Documents/GitHub/ESP32_MP3/Firmware/ESP_MP3/build/bootloader/bootloader.elf",
-    "app_elf":            "app-template.elf",
-    "app_bin":            "app-template.bin",
+    "app_elf":            "ESP_MP3.elf",
+    "app_bin":            "ESP_MP3.bin",
     "build_type":         "flash_app",
     "git_revision":       "v5.1.1-dirty",
     "target":             "esp32s3",
@@ -790,8 +790,8 @@
             "managed_reqs": [],
             "managed_priv_reqs": [],
             "file": "C:/Users/Li Yuanhao/Documents/GitHub/ESP32_MP3/Firmware/ESP_MP3/build/esp-idf/main/libmain.a",
-            "sources": [ "C:/Users/Li Yuanhao/Documents/GitHub/ESP32_MP3/Firmware/ESP_MP3/main/main.c" ],
-            "include_dirs": []
+            "sources": [ "C:/Users/Li Yuanhao/Documents/GitHub/ESP32_MP3/Firmware/ESP_MP3/main/main.c", "C:/Users/Li Yuanhao/Documents/GitHub/ESP32_MP3/Firmware/ESP_MP3/main/liveLED/liveLED.cpp" ],
+            "include_dirs": [ ".", "ePaper", "liveLED" ]
         },
         "mbedtls": {
             "alias": "idf::mbedtls",

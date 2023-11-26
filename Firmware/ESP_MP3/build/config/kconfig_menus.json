@@ -5554,27 +5554,17 @@
             {
                 "children": [],
                 "depends_on": null,
-                "help": "SSID (network name) for the example to connect to.",
-                "id": "ESP_WIFI_SSID",
-                "name": "ESP_WIFI_SSID",
+                "help": "The GPIO pinout for liveLED, should not be the same as other pin require sub-Kconfig",
+                "id": "ESP_LIVELED_GPIO",
+                "name": "ESP_LIVELED_GPIO",
                 "range": null,
-                "title": "WiFi SSID",
-                "type": "string"
-            },
-            {
-                "children": [],
-                "depends_on": null,
-                "help": "WiFi password (WPA or WPA2) for the example to use.",
-                "id": "ESP_WIFI_PASSWORD",
-                "name": "ESP_WIFI_PASSWORD",
-                "range": null,
-                "title": "WiFi Password",
-                "type": "string"
+                "title": "LiveLED GPIO Pinout",
+                "type": "int"
             }
         ],
         "depends_on": null,
-        "id": "example-configuration",
-        "title": "Example Configuration",
+        "id": "liveled-configuration",
+        "title": "liveLED Configuration",
         "type": "menu"
     },
     {
